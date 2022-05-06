@@ -178,3 +178,6 @@ HTTP/2 или HTTP/3, TLS1.3. Сжатие статики и ответов API 
 3. [The monthly audience of AliExpress Russia has reached 35 million people](https://www.akm.ru/eng/press/the-monthly-audience-of-aliexpress-russia-has-reached-35-million-people/)
 4. [AliExpress statistics and facts](https://expandedramblings.com/index.php/aliexpress-statistics-facts/)
 5. [Designing a multi-store e-commerce using frameworks on iOS](https://medium.com/@asteiman/designing-a-multi-store-e-commerce-using-frameworks-on-ios-80f6cc982713)
+6. [A Practical Introduction to Elasticsearch](https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch)
+7. [PGSync](https://github.com/toluaina/pgsync)
+8. [Apache Airflow](https://github.com/apache/airflow)
