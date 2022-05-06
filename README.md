@@ -172,6 +172,11 @@ HTTP/2 или HTTP/3, TLS1.3. Сжатие статики и ответов API 
 # 6. Схема проекта
 ![Схема проекта](img/full.svg)
 
+Вопросы:
+- какие технологии будут использоваться для хранения/отдачи статических файлов под нджинксом?
+- каким образом (и какой микросервис) отвечает за подгружение информации из бд в опенсерч?
+- на схеме есть backedn router - что это такое? 
+
 ### Источники
 1. [Similarweb - AliExpress](https://www.similarweb.com/ru/website/aliexpress.com/#traffic)
 2. [Similarweb - AliExpress login](https://www.similarweb.com/ru/website/login.aliexpress.com/#overview)
